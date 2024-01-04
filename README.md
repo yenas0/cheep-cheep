@@ -1,9 +1,20 @@
 This is Hangman Game.
+
 Guess the right word for the given number of letters.
 The words that need to be matched are all animals and insects.
-This program is written by Unity (ver 2020.3.30f1)
 
-행맨게임입니다.
-주어진 단어를 맞추는 게임이고 단어는 모두 동물 및 곤충으로 이루어져 있습니다.
-해당 프로그램은 유니티(2020.3.30f1 버전)으로 작성되었습니다.
-![Uploading image.png…]()
+This program is written by Unity (ver 2020.3.30f1)
+It will be best when run at 640x960 resolution.
+
+
+You have five chances.
+
+![image](https://github.com/yenas0/cheep-cheep/assets/140628723/4321f3c6-eefe-4623-8a64-a962ee69d460)
+
+If you get the correct answer within 5 chances, the letter turns green.
+
+![image](https://github.com/yenas0/cheep-cheep/assets/140628723/005ecf58-5e25-4e51-b665-49d6d689e559)
+
+If you get wrong in the sixth after five chances, the game is over and the answer appears in red letters on the screen.
+
+![image](https://github.com/yenas0/cheep-cheep/assets/140628723/3ecc6511-6dfa-4329-b4be-1d6678241aad)
